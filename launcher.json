@@ -1,0 +1,19 @@
+{
+  "version": "4.0.0",
+  "notes": "GUI Launcher stable release 4",
+  "pub_date": "2025-12-14T00:00:00.000Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
